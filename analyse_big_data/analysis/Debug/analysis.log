@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\我的研究生\学术\相关项目\peiwei_no-fenge\analysis\源.cpp(204): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\我的研究生\学术\相关项目\peiwei_no-fenge\analysis\源.cpp(206): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\我的研究生\学术\相关项目\peiwei_no-fenge\analysis\源.cpp(223): warning C4018: “<”: 有符号/无符号不匹配
+  analysis.vcxproj -> D:\我的研究生\学术\相关项目\peiwei_no-fenge\Debug\analysis.exe
